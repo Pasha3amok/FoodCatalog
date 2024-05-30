@@ -20,9 +20,6 @@ function Recipe() {
             ) : (
                 <div className="recipe">
                     <div className="recipe-image row">
-                        <div className="add-button">
-                            <AddButton />
-                        </div>
                         <div className="responsive-img">
                             <img
                                 src={recipe.strMealThumb}
