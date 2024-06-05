@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FoodCatalog/static/css/main.2b1cfb08.css",
-    "main.js": "/FoodCatalog/static/js/main.92ffe175.js",
+    "main.js": "/FoodCatalog/static/js/main.f3280c85.js",
     "static/js/453.0cc0ac16.chunk.js": "/FoodCatalog/static/js/453.0cc0ac16.chunk.js",
     "index.html": "/FoodCatalog/index.html",
     "main.2b1cfb08.css.map": "/FoodCatalog/static/css/main.2b1cfb08.css.map",
-    "main.92ffe175.js.map": "/FoodCatalog/static/js/main.92ffe175.js.map",
+    "main.f3280c85.js.map": "/FoodCatalog/static/js/main.f3280c85.js.map",
     "453.0cc0ac16.chunk.js.map": "/FoodCatalog/static/js/453.0cc0ac16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b1cfb08.css",
-    "static/js/main.92ffe175.js"
+    "static/js/main.f3280c85.js"
   ]
 }
