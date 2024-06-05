@@ -2,7 +2,7 @@
   "name": "main",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pasha3amok.github.io/FoodStoreWeb",
+  "homepage": "https://Pasha3amok.github.io/FoodCatalog",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",

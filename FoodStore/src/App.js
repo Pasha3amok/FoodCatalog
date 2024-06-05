@@ -9,7 +9,7 @@ import Sidebar from './components/Sidebar';
 function App() {
   return (
     <>
-	<Router basename='/FoodStoreWeb'>
+	<Router basename='/FooCatalog'>
 		<Header />
 		<Sidebar/>
 		<main className='container content'>
