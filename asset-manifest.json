@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodStoreWeb/static/css/main.2b1cfb08.css",
+    "main.js": "/FoodStoreWeb/static/js/main.5616dcab.js",
+    "static/js/453.0cc0ac16.chunk.js": "/FoodStoreWeb/static/js/453.0cc0ac16.chunk.js",
+    "index.html": "/FoodStoreWeb/index.html",
+    "main.2b1cfb08.css.map": "/FoodStoreWeb/static/css/main.2b1cfb08.css.map",
+    "main.5616dcab.js.map": "/FoodStoreWeb/static/js/main.5616dcab.js.map",
+    "453.0cc0ac16.chunk.js.map": "/FoodStoreWeb/static/js/453.0cc0ac16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b1cfb08.css",
+    "static/js/main.5616dcab.js"
+  ]
+}
